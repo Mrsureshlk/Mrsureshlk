@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Suresh l Bamunusinghe</h1>
 <h3 align="center">A Passionate WordPress Developer from Sri Lanka 🇱🇰</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsureshlk&label=Profile%20views&color=0e75b6&style=flat" alt="mrsureshlk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsureshlk" alt="mrsureshlk" /></a> </p>
 
 - 💻 I’m Work at [Lexiata.lk](https://Lexiata.lk)
 
