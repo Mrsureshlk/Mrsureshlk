@@ -55,16 +55,27 @@
 </tr>
 </table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/m.lasantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.lasantha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lexiata_lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lexiata_lk" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@tech-highlits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lexiata_lk" height="30" width="40" /></a>
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="kaveendinethma1109" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/kaveendinethma" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/22345746/kaveen-dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
+<a href="https://fb.com/kaveen dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
+<a href="https://www.instagram.com/kavee_dineth/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="center">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  </p>
 
+---
 
+<h3 align="center">Support:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsureshlk&" alt="mrsureshlk" /></p>
+---
+
+<h6 align="center">© 2024 Mrsureshlk. All rights reserved.</h6>
+
