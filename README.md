@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Suresh l Bamunusinghe</h1>
 <h3 align="center">A Passionate WordPress Developer from Sri Lanka</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsureshlk&label=Profile%20views&color=0e75b6&style=flat" alt="mrsureshlk" /> </p>
 
 
 - 💻 I’m Work at [Lexiata.lk](https://Lexiata.lk)
